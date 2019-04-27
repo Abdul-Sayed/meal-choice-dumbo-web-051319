@@ -2,7 +2,7 @@
 # passed into it and defaults to meat.
 
 
-meal_choice(meal="meat")
+def meal_choice(meal="meat")
   return meal
 end
 
